@@ -1,2 +1,2 @@
-###Todo API
-Simple Todo API using Node + Express + Typescript + PostgreSQL
+# Todo API
+## Simple Todo API using Node + Express + Typescript + PostgreSQL
